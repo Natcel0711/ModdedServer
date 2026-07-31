@@ -1,37 +1,43 @@
 {
-  "alexsmobs:alexsmobs/root": {
-    "criteria": {
-      "useitem": "2026-07-31 15:26:15 -0400"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
-      "unlock_right_away": "2026-07-31 15:26:10 -0400"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/root": {
-    "criteria": {
-      "consumed_item": "2026-07-31 15:26:15 -0400"
+      "unlock_right_away": "2026-07-31 15:42:34 -0400"
     },
     "done": true
   },
   "betterdeserttemples:root": {
     "criteria": {
-      "always": "2026-07-31 15:26:10 -0400"
+      "always": "2026-07-31 15:42:34 -0400"
     },
     "done": true
   },
   "dungeons_arise:wda_root": {
     "criteria": {
-      "WDA": "2026-07-31 15:26:10 -0400"
+      "WDA": "2026-07-31 15:42:34 -0400"
     },
     "done": true
   },
   "betterdungeons:root": {
     "criteria": {
-      "always": "2026-07-31 15:26:10 -0400"
+      "always": "2026-07-31 15:42:34 -0400"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:mangrove_swamp": "2026-07-31 15:42:34 -0400"
+    },
+    "done": false
+  },
+  "alexsmobs:alexsmobs/root": {
+    "criteria": {
+      "useitem": "2026-07-31 15:43:11 -0400"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2026-07-31 15:43:11 -0400"
     },
     "done": true
   },
