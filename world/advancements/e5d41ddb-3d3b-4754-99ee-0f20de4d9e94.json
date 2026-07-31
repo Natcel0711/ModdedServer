@@ -1,43 +1,142 @@
 {
+  "twilightforest:recipes/transportation/twilight_oak_boat": {
+    "criteria": {
+      "in_water": "2026-07-31 16:05:47 -0400"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/time_boat": {
+    "criteria": {
+      "in_water": "2026-07-31 16:05:47 -0400"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/mining_boat": {
+    "criteria": {
+      "in_water": "2026-07-31 16:05:47 -0400"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/mangrove_boat": {
+    "criteria": {
+      "in_water": "2026-07-31 16:05:47 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
-      "unlock_right_away": "2026-07-31 15:42:34 -0400"
+      "unlock_right_away": "2026-07-31 16:04:31 -0400"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/transformation_boat": {
+    "criteria": {
+      "in_water": "2026-07-31 16:05:47 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/cherry_boat": {
+    "criteria": {
+      "in_water": "2026-07-31 16:05:47 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/bamboo_raft": {
+    "criteria": {
+      "in_water": "2026-07-31 16:05:47 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2026-07-31 16:05:47 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2026-07-31 16:05:47 -0400"
     },
     "done": true
   },
   "betterdeserttemples:root": {
     "criteria": {
-      "always": "2026-07-31 15:42:34 -0400"
+      "always": "2026-07-31 16:04:31 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2026-07-31 16:05:47 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/mangrove_boat": {
+    "criteria": {
+      "in_water": "2026-07-31 16:05:47 -0400"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_mechanical_nest": {
+    "criteria": {
+      "location0": "2026-07-31 16:05:02 -0400"
     },
     "done": true
   },
   "dungeons_arise:wda_root": {
     "criteria": {
-      "WDA": "2026-07-31 15:42:34 -0400"
+      "WDA": "2026-07-31 16:04:31 -0400"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/canopy_boat": {
+    "criteria": {
+      "in_water": "2026-07-31 16:05:47 -0400"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/dark_boat": {
+    "criteria": {
+      "in_water": "2026-07-31 16:05:47 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2026-07-31 16:05:47 -0400"
     },
     "done": true
   },
   "betterdungeons:root": {
     "criteria": {
-      "always": "2026-07-31 15:42:34 -0400"
+      "always": "2026-07-31 16:04:31 -0400"
     },
     "done": true
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:mangrove_swamp": "2026-07-31 15:42:34 -0400"
+      "minecraft:old_growth_pine_taiga": "2026-07-31 16:05:27 -0400",
+      "minecraft:dark_forest": "2026-07-31 16:05:55 -0400",
+      "minecraft:swamp": "2026-07-31 16:04:32 -0400",
+      "minecraft:lush_caves": "2026-07-31 16:06:40 -0400"
     },
     "done": false
   },
-  "alexsmobs:alexsmobs/root": {
+  "twilightforest:recipes/transportation/sorting_boat": {
     "criteria": {
-      "useitem": "2026-07-31 15:43:11 -0400"
+      "in_water": "2026-07-31 16:05:47 -0400"
     },
     "done": true
   },
-  "minecraft:husbandry/root": {
+  "minecraft:recipes/transportation/jungle_boat": {
     "criteria": {
-      "consumed_item": "2026-07-31 15:43:11 -0400"
+      "in_water": "2026-07-31 16:05:47 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2026-07-31 16:05:47 -0400"
     },
     "done": true
   },
